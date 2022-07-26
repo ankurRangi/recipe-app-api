@@ -106,3 +106,13 @@ NOTE:   docker-compose up - To run the server
         docker-compose down
         docker-compose build - To build the container of docker
 
+11. Configured PostgreSQL
+    Set Django DB configuration
+    Handled race conditons
+    Added migrations
+
+######################################
+
+USER MODEL
+
+12.  
