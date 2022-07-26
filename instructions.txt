@@ -97,3 +97,12 @@ In Visual Studios,
     docker-compose run --rm app sh -c "django-admin startproject app ."
     This will create a project folder with all the files settings.py, urls.py, manage.py, etc
     
+#######################################
+
+10. GitHub Actions
+    Create .github Folder in root dir
+
+NOTE:   docker-compose up - To run the server
+        docker-compose down
+        docker-compose build - To build the container of docker
+
