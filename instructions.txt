@@ -115,4 +115,8 @@ NOTE:   docker-compose up - To run the server
 
 USER MODEL
 
-12.  
+12. User Fields - Email, Name, is_active, is_staff 
+13. Model manager - Manages objects, Hashes the password,
+14. BaseUserManager - normalizer_email, methods - create_user, create_superuser
+
+15. 
